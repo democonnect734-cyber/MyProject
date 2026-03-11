@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className="flex flex-col items-center space-y-6">
         <button className="px-6 py-3 bg-white text-blue-600 font-semibold rounded-lg shadow hover:bg-gray-100 transition">
-          Get Started
+          Get Started...
         </button>
 
         <div className="flex space-x-4">
