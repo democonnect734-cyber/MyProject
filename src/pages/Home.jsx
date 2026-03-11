@@ -5,9 +5,9 @@ export default function Home() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-blue-500 to-purple-600 text-white">
       <header className="text-center mb-10">
-        <h1 className="text-5xl font-bold mb-4">Edu Connect</h1>
+        <h1 className="text-5xl font-bold mb-4">Student Connect</h1>
         <p className="text-xl max-w-xl">
-          Welcome to Student Connect! 
+          Welcome to Student Connect! A platform to connect students and courses seamlessly.
         </p>
       </header>
 
