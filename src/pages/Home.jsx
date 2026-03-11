@@ -7,7 +7,7 @@ export default function Home() {
       <header className="text-center mb-10">
         <h1 className="text-5xl font-bold mb-4">Edu Connect</h1>
         <p className="text-xl max-w-xl">
-          Welcome to Edu Connect! A platform to connect students and courses seamlessly.
+          Welcome to Student Connect! A platform to connect students and courses seamlessly.
         </p>
       </header>
 
